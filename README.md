@@ -14,6 +14,9 @@ Real Estate Exchange Format (REXF) is a listing format that favours convention o
   * It must support generalized concepts as Literals, ie apartments are apartments.
   * However it must support real estate changes between countries, ie are apartments / flats the same?
 
+## WillUse
+* Flow Types
+
 ## License
 
 Attribution 4.0 International (CC BY 4.0)
