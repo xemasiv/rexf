@@ -17,6 +17,15 @@ Real Estate Exchange Format (REXF) is a listing format that favours convention o
 * Country-based
   * Since every country differs in how they call shit, this implementation shall be segregated by countries.
   * For example in Italy they have this shit they call "Baita's", like what the fuck is that, right? Let's keep that shit in Italy.
+* It must be easily used on simple listings, and easily extendable on complex / special-case listings.
+* A listing's attributes shall be ingestible by search platforms, such as ElasticSearch.
+
+#### Listing Attributes & Search
+
+* Each listing should allow the following operations:
+  * Sort
+  * Filter
+  * Group-by
 
 ## Will Use
 * Flow Types
