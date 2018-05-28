@@ -10,6 +10,9 @@ Real Estate Exchange Format (REXF) is a listing format that favours convention o
 * Timeliness
   * Means "the fact or quality of being done or occurring at a favorable or useful time."
   * It must be easy to create, and easy to read.
+* Extendable
+  * It must support generalized concepts as Literals, ie apartments are apartments.
+  * However it must support real estate changes between countries, ie are apartments / flats the same?
 
 ## License
 
