@@ -14,8 +14,11 @@ Real Estate Exchange Format (REXF) is a listing format that favours convention o
 * Extendable
   * It must support generalized concepts as Literals, ie apartments are apartments.
   * However it must support real estate changes between countries, ie are apartments / flats the same?
+* Country-based
+  * Since every country differs in how they call shit, this implementation shall be segregated by countries.
+  * For example in Italy they have this shit they call "Baita's", like what the fuck is that, right? Let's keep that shit in Italy.
 
-## WillUse
+## Will Use
 * Flow Types
 
 ## License
