@@ -1,5 +1,15 @@
 # rexf
-Real Estate Exchange Format (REXF)
+Real Estate Exchange Format (REXF) is a listing format that favours convention over configuration.
+
+## Goals
+* Simplicity
+  * Digestible by people new to real estate.
+  * Still informative to brokers and agents alike.
+* Conciseness
+  * Not too long, but still informative - hence not too short.
+* Timeliness
+  * Means "the fact or quality of being done or occurring at a favorable or useful time."
+  * It must be easy to create, and easy to read.
 
 ## License
 
