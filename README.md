@@ -26,6 +26,10 @@ For example, a "Baita" in Italy, or a "Chalet" in Switzerland, is generally a "C
   * Filter
   * Group By
 
+#### Extendable
+
+* MLS-compatible, compliant to the Real Estate Transaction Standard (RETS) by Real Estate Standards Organization (RESO).
+
 ## License
 
 Attribution 4.0 International (CC BY 4.0)
