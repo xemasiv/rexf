@@ -15,7 +15,7 @@ Real Estate Exchange Format (REXF) is a listing format that favours convention o
 * The International version focuses on generalized / middle-ground classifications.
 * Local versions, which are by country, are extended from the International version, focuses on providing idiomatic classifications.
 ```
-For example, a "Baita" in Italy is generally a "Cabin".
+For example, a "Baita" in Italy, or a "Chalet" in Switzerland, is generally a "Cabin" or a "Cottage".
 ```
 
 #### Structured
