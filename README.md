@@ -8,7 +8,7 @@ Real Estate Exchange Format (REXF) is a listing format that favours convention o
 * Simple: Informative 'enough' for real estate agents/brokers/owners and their clients.
 * Concise: Not too long, but still informative; hence not too short. 
 * Timely: Easy to create, easy to read. Easy to skim, comprehensible in less than 30 seconds.
-* Portable: Easily 
+* Portable: Enables easier integration, sharing and interpretation between real estate platforms.  
 
 #### Internationalized & Localized
 
